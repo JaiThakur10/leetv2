@@ -25,3 +25,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JaiThakur10/leetv2/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/JaiThakur10/leetv2/tree/master/0009-palindrome-number) |
