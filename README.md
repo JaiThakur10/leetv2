@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/JaiThakur10/leetv2/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/JaiThakur10/leetv2/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JaiThakur10/leetv2/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/JaiThakur10/leetv2/tree/master/0136-single-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JaiThakur10/leetv2/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
@@ -80,3 +81,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JaiThakur10/leetv2/tree/master/0053-maximum-subarray) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JaiThakur10/leetv2/tree/master/0136-single-number) |
