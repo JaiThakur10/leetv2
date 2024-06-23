@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JaiThakur10/leetv2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JaiThakur10/leetv2/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
@@ -56,3 +57,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JaiThakur10/leetv2/tree/master/0021-merge-two-sorted-lists) |
+# Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JaiThakur10/leetv2/tree/master/0026-remove-duplicates-from-sorted-array) |
