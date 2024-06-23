@@ -29,3 +29,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JaiThakur10/leetv2/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/JaiThakur10/leetv2/tree/master/0013-roman-to-integer) |
+# Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/JaiThakur10/leetv2/tree/master/0013-roman-to-integer) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/JaiThakur10/leetv2/tree/master/0013-roman-to-integer) |
