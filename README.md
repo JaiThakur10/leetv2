@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiThakur10/leetv2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/JaiThakur10/leetv2/tree/master/0027-remove-element) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JaiThakur10/leetv2/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
@@ -61,3 +62,4 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiThakur10/leetv2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/JaiThakur10/leetv2/tree/master/0027-remove-element) |
