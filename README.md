@@ -90,11 +90,13 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/JaiThakur10/leetv2/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -108,4 +110,12 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
