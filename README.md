@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JaiThakur10/leetv2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -171,5 +172,6 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JaiThakur10/leetv2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
