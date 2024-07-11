@@ -146,6 +146,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0002-add-two-numbers) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/JaiThakur10/leetv2/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -158,12 +159,14 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/JaiThakur10/leetv2/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
