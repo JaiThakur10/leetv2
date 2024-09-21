@@ -203,9 +203,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0386-lexicographical-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
