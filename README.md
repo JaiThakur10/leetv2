@@ -93,6 +93,7 @@
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/JaiThakur10/leetv2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 ## Sorting
 |  |
 | ------- |
@@ -221,4 +223,16 @@
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JaiThakur10/leetv2/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
