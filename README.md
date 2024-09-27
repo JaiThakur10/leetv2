@@ -94,6 +94,7 @@
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/JaiThakur10/leetv2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -227,12 +229,19 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
