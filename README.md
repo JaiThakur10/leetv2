@@ -96,6 +96,7 @@
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/JaiThakur10/leetv2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -112,6 +113,7 @@
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/JaiThakur10/leetv2/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 ## Backtracking
