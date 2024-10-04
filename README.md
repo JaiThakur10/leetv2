@@ -105,6 +105,7 @@
 | [1803-average-waiting-time](https://github.com/JaiThakur10/leetv2/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JaiThakur10/leetv2/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -116,10 +117,12 @@
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/JaiThakur10/leetv2/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 ## Backtracking
 |  |
