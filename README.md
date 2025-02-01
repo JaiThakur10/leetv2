@@ -108,6 +108,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
+| [3429-special-array-i](https://github.com/JaiThakur10/leetv2/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
