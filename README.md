@@ -112,6 +112,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JaiThakur10/leetv2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/JaiThakur10/leetv2/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/JaiThakur10/leetv2/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JaiThakur10/leetv2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JaiThakur10/leetv2/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
