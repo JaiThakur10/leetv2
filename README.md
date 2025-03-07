@@ -207,6 +207,7 @@
 | [1642-water-bottles](https://github.com/JaiThakur10/leetv2/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JaiThakur10/leetv2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JaiThakur10/leetv2/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
@@ -289,4 +290,8 @@
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
