@@ -231,12 +231,14 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JaiThakur10/leetv2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JaiThakur10/leetv2/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JaiThakur10/leetv2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JaiThakur10/leetv2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JaiThakur10/leetv2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JaiThakur10/leetv2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
 | ------- |
