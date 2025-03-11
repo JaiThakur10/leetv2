@@ -124,6 +124,7 @@
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JaiThakur10/leetv2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/JaiThakur10/leetv2/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -231,6 +232,7 @@
 | [0010-regular-expression-matching](https://github.com/JaiThakur10/leetv2/tree/master/0010-regular-expression-matching) |
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JaiThakur10/leetv2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JaiThakur10/leetv2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JaiThakur10/leetv2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JaiThakur10/leetv2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JaiThakur10/leetv2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/JaiThakur10/leetv2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JaiThakur10/leetv2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/JaiThakur10/leetv2/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JaiThakur10/leetv2/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
