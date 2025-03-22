@@ -276,6 +276,7 @@
 | [0386-lexicographical-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0386-lexicographical-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,10 +320,12 @@
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JaiThakur10/leetv2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Number Theory
 |  |
@@ -339,6 +342,7 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JaiThakur10/leetv2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JaiThakur10/leetv2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
