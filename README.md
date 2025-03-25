@@ -124,6 +124,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JaiThakur10/leetv2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/JaiThakur10/leetv2/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/JaiThakur10/leetv2/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JaiThakur10/leetv2/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JaiThakur10/leetv2/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
 | ------- |
