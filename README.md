@@ -105,6 +105,7 @@
 | [1803-average-waiting-time](https://github.com/JaiThakur10/leetv2/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JaiThakur10/leetv2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JaiThakur10/leetv2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JaiThakur10/leetv2/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JaiThakur10/leetv2/tree/master/2308-divide-array-into-equal-pairs) |
@@ -168,6 +169,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JaiThakur10/leetv2/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -228,6 +231,7 @@
 | [1642-water-bottles](https://github.com/JaiThakur10/leetv2/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JaiThakur10/leetv2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JaiThakur10/leetv2/tree/master/2649-count-total-number-of-colored-cells) |
