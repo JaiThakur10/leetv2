@@ -121,6 +121,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JaiThakur10/leetv2/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JaiThakur10/leetv2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/JaiThakur10/leetv2/tree/master/3429-special-array-i) |
@@ -178,6 +179,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JaiThakur10/leetv2/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JaiThakur10/leetv2/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
@@ -206,15 +208,18 @@
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JaiThakur10/leetv2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JaiThakur10/leetv2/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +247,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JaiThakur10/leetv2/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/JaiThakur10/leetv2/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -347,6 +353,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
 | ------- |
