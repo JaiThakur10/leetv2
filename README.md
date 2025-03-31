@@ -116,6 +116,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JaiThakur10/leetv2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JaiThakur10/leetv2/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/JaiThakur10/leetv2/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/JaiThakur10/leetv2/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/JaiThakur10/leetv2/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -179,6 +180,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JaiThakur10/leetv2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/JaiThakur10/leetv2/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/JaiThakur10/leetv2/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JaiThakur10/leetv2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
@@ -222,6 +224,7 @@
 | [0768-partition-labels](https://github.com/JaiThakur10/leetv2/tree/master/0768-partition-labels) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JaiThakur10/leetv2/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2681-put-marbles-in-bags](https://github.com/JaiThakur10/leetv2/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JaiThakur10/leetv2/tree/master/3001-apply-operations-to-maximize-score) |
 ## Linked List
 |  |
@@ -385,4 +388,5 @@
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/JaiThakur10/leetv2/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
