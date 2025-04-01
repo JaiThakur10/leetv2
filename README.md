@@ -107,6 +107,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JaiThakur10/leetv2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/JaiThakur10/leetv2/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JaiThakur10/leetv2/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JaiThakur10/leetv2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JaiThakur10/leetv2/tree/master/2478-longest-nice-subarray) |
@@ -204,6 +205,7 @@
 | [0010-regular-expression-matching](https://github.com/JaiThakur10/leetv2/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JaiThakur10/leetv2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/JaiThakur10/leetv2/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
 |  |
 | ------- |
