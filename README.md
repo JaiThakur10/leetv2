@@ -142,6 +142,7 @@
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/JaiThakur10/leetv2/tree/master/0768-partition-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JaiThakur10/leetv2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JaiThakur10/leetv2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -301,17 +302,20 @@
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JaiThakur10/leetv2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0386-lexicographical-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JaiThakur10/leetv2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JaiThakur10/leetv2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Trie
 |  |
 | ------- |
@@ -350,6 +354,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JaiThakur10/leetv2/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JaiThakur10/leetv2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/JaiThakur10/leetv2/tree/master/2793-count-the-number-of-complete-components) |
