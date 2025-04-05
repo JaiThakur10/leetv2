@@ -105,6 +105,7 @@
 | [1803-average-waiting-time](https://github.com/JaiThakur10/leetv2/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JaiThakur10/leetv2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JaiThakur10/leetv2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/JaiThakur10/leetv2/tree/master/2262-solving-questions-with-brainpower) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [1642-water-bottles](https://github.com/JaiThakur10/leetv2/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JaiThakur10/leetv2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
@@ -373,6 +376,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JaiThakur10/leetv2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JaiThakur10/leetv2/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JaiThakur10/leetv2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -398,4 +402,12 @@
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JaiThakur10/leetv2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/JaiThakur10/leetv2/tree/master/2681-put-marbles-in-bags) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
