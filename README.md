@@ -94,6 +94,7 @@
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/JaiThakur10/leetv2/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/JaiThakur10/leetv2/tree/master/0416-partition-equal-subset-sum) |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/JaiThakur10/leetv2/tree/master/1207-delete-nodes-and-return-forest) |
@@ -212,6 +213,7 @@
 | [0010-regular-expression-matching](https://github.com/JaiThakur10/leetv2/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/JaiThakur10/leetv2/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/JaiThakur10/leetv2/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JaiThakur10/leetv2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/JaiThakur10/leetv2/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
