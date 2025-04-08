@@ -90,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiThakur10/leetv2/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/JaiThakur10/leetv2/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/JaiThakur10/leetv2/tree/master/0085-maximal-rectangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +163,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiThakur10/leetv2/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/JaiThakur10/leetv2/tree/master/0768-partition-labels) |
@@ -183,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiThakur10/leetv2/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/JaiThakur10/leetv2/tree/master/0368-largest-divisible-subset) |
 | [1256-rank-transform-of-an-array](https://github.com/JaiThakur10/leetv2/tree/master/1256-rank-transform-of-an-array) |
