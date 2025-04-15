@@ -275,6 +275,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JaiThakur10/leetv2/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/JaiThakur10/leetv2/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JaiThakur10/leetv2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JaiThakur10/leetv2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/JaiThakur10/leetv2/tree/master/2645-pass-the-pillow) |
@@ -290,6 +291,7 @@
 | [0002-add-two-numbers](https://github.com/JaiThakur10/leetv2/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/JaiThakur10/leetv2/tree/master/0010-regular-expression-matching) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/JaiThakur10/leetv2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/JaiThakur10/leetv2/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
