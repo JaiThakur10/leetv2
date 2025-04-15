@@ -113,6 +113,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JaiThakur10/leetv2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/JaiThakur10/leetv2/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JaiThakur10/leetv2/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JaiThakur10/leetv2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JaiThakur10/leetv2/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/JaiThakur10/leetv2/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -181,6 +182,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiThakur10/leetv2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JaiThakur10/leetv2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JaiThakur10/leetv2/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/JaiThakur10/leetv2/tree/master/2690-house-robber-iv) |
@@ -361,11 +363,13 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/JaiThakur10/leetv2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/JaiThakur10/leetv2/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -432,4 +436,16 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/JaiThakur10/leetv2/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/JaiThakur10/leetv2/tree/master/3548-find-the-count-of-good-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/JaiThakur10/leetv2/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
