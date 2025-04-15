@@ -103,6 +103,7 @@
 | [1293-three-consecutive-odds](https://github.com/JaiThakur10/leetv2/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/JaiThakur10/leetv2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/JaiThakur10/leetv2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/JaiThakur10/leetv2/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/JaiThakur10/leetv2/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/JaiThakur10/leetv2/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/JaiThakur10/leetv2/tree/master/1803-average-waiting-time) |
@@ -433,6 +434,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/JaiThakur10/leetv2/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JaiThakur10/leetv2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/JaiThakur10/leetv2/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/JaiThakur10/leetv2/tree/master/3548-find-the-count-of-good-integers) |
