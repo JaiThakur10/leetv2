@@ -303,6 +303,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/JaiThakur10/leetv2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/JaiThakur10/leetv2/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/JaiThakur10/leetv2/tree/master/0010-regular-expression-matching) |
+| [0038-count-and-say](https://github.com/JaiThakur10/leetv2/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/JaiThakur10/leetv2/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/JaiThakur10/leetv2/tree/master/0768-partition-labels) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JaiThakur10/leetv2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
